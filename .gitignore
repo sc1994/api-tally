@@ -10,3 +10,8 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+*lastupdate.tmp
+*.memprof
+*.zip
+*.pprof
+/swagger
